@@ -56,7 +56,6 @@ True
 - The worst-case **time complexity is O(nm)**.
 
 ## Running the Program
-- Modify the `DonorCycle.java`file to implement the solution.
 - Run the program and **paste input into the console**, then press enter.
 - The program will output either `True` or `False`.
 
